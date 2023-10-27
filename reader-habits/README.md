@@ -7,8 +7,8 @@ Neste projeto, faremos uma Análise Exploratória de Dados no *dataset* "Reading
 
 Para uma melhor organização, a análise dos dados foi feita em três etapas:
 
-1) [Data Cleaning](#data_cleaning), onde as colunas do dataset original foram renomeadas, e também tratamos os valores faltantes de cada atributo;
+1) Data Cleaning, onde as colunas do dataset original foram renomeadas, e também tratamos os valores faltantes de cada atributo;
 
-2) [Análises Simples](#analises_simples), cujo objetivo é entender melhor o dataset, olhando para os atributos individualmente;
+2) Análises Simples, cujo objetivo é entender melhor o dataset, olhando para os atributos individualmente;
 
-3) [Análises Compostas](#analises_compostas), onde realizamos inferências estatísticas relacionando dois ou mais atributos.
+3) Análises Compostas, onde realizamos inferências estatísticas relacionando dois ou mais atributos.
